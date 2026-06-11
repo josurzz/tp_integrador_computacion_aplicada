@@ -1,1 +1,4 @@
-# tp_integrador_computacion_aplicada
+## Integrantes:
+* **Josue Ruiz Zapata**
+* **Hilel Cohen**
+* **Thiago Garcia**
